@@ -1,0 +1,4 @@
+﻿  test_cpp.cpp
+C:\Users\ashev\source\repos\test_cpp\test_cpp\test_cpp.cpp(8,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\ashev\source\repos\test_cpp\test_cpp\test_cpp.cpp(20,20): warning C4018: '<': signed/unsigned mismatch
+  test_cpp.vcxproj -> C:\Users\ashev\source\repos\test_cpp\x64\Debug\test_cpp.exe
